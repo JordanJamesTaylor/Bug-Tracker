@@ -8,6 +8,7 @@ class App extends Component {
         <div className='title-container'>
           <h1 className='title'>Bug Tracker</h1>
         </div>
+
       </div>
     );
   }
